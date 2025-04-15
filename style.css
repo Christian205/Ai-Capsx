@@ -235,17 +235,10 @@ input, select {
     color: #ffffff;
 }
 
-.logo {
+.logo, .logo1 {
     display: block;
     margin: 0px auto 20px auto; /* Center the logo and add bottom margin */
-    width: 150px; /* Adjust the width as needed */
-    height: auto; /* Maintain aspect ratio */
-}
-
-.logo1 {
-    display: block;
-    margin: 0px auto 10px auto; /* Center the logo and add bottom margin */
-    width: 90px; /* Adjust the width as needed */
+    width: 130px; /* Set the same width for both logos */
     height: auto; /* Maintain aspect ratio */
 }
 
